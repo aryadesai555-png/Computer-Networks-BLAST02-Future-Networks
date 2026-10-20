@@ -75,6 +75,13 @@ The ping experiment represents only a small sample of network behavior. The prop
 
 Project materials, including the presentation, speaking script, experiment evidence, architecture diagram, and research references, will be organized in this repository as they are finalized.
 
+## Project Links
+
+- **GitHub Repository:** https://github.com/aryadesai555-png/Computer-Networks-BLAST02-Future-Networks
+- **YouTube Presentation:** https://youtu.be/xqWVGUQJkY0
+- **LinkedIn:** https://www.linkedin.com/in/arya-desai-7492b3359/
+
+
 ## References
 
 The research draws on peer-reviewed networking and security literature, National Institute of Standards and Technology (NIST) publications, and International Telecommunication Union (ITU) materials.
